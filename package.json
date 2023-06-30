@@ -4,7 +4,12 @@
   "homepage": "https://jsquest-dusky.vercel.app/",
   "private": true,
   "dependencies": {
-    "@react-pdf/renderer": "^2.2.0",
+    "@emotion/react": "11.8.1",
+    "@emotion/styled": "11.8.1",
+    "@mui/icons-material": "5.4.2",
+    "@mui/joy": "^5.0.0-alpha.85",
+    "@mui/material": "5.4.3",
+    "@mui/styles": "5.4.2",
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
