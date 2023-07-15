@@ -7,6 +7,7 @@ import {
   AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 function Home2() {
   return (
@@ -18,13 +19,12 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I have always been fascinated with all things tech.  Having owned and operated a profitable restaurant/pub, I decided to sell it at the end of 2022 to pursue my passion for web development.
+              With over a decade of small business ownership and management, I bring a unique blend of entrepreneurial spirit and technical expertise to web development. Let's connect and explore how I can contribute to your organization's success as a dedicated and driven developer.
               <br />
               <br />My bases include:
               <i>
                 <b className="purple"> Javascript, SQL, NoSQL, HTML & CSS. </b>
               </i>
-              <br />Check out my "About" tab for additional techstack info.
               <br />
               <br />
               I am a fan of continually building and testing &nbsp;

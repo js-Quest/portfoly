@@ -9,10 +9,10 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi there, thank you for visiting my page! I'm <span className="purple">Jessica Saddington </span> 
-            from <span className="purple"> Austin, TX</span> and a recent graduate of the University of Texas (Austin) Full Stack Coding Bootcamp.
+            from <span className="purple"> Austin, TX</span> and a graduate of the University of Texas (Austin) Full Stack Certification Program.
             <br />
             <br />
-            Formerly a restaurateur, I decided to level up my technical skills to pursue a career in web development.  I have over a decade of work experience in management and small-business ownership, and I am a quick learner and problem-solver.  
+            Through my work experience, I have developed and honed many integral skills. I'm passionate about creating innovative solutions and enhancing user experiences. I excel at problem-solving, adapting to dynamic environments, and delivering efficient solutions to complex challenges. As a team player, I build strong relationships through effective communication. I consistently exceed expectations, delivering projects on time and within budget with exceptional attention to detail. Currently seeking new opportunities in the tech industry to drive impactful results. Let's connect and explore how I can contribute to your organization's success as a dedicated and driven developer.
             <br />
             <br />
             Apart from coding, these are some other activities that I enjoy!

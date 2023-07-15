@@ -9,7 +9,7 @@ function Type() {
           "Full Stack Developer",
           "Team-Player",
           "MERN Stack Developer",
-          "Results-Getter",
+          "Results-Driven",
         ],
         autoStart: true,
         loop: true,
