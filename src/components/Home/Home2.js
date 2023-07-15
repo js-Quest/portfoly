@@ -4,10 +4,10 @@ import portrait from "../../assets/smileSM.png";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
+  AiFillInstagram,
   AiOutlineTwitter,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
-import { Link } from "react-router-dom";
 
 function Home2() {
   return (
@@ -78,6 +78,16 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineTwitter />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/jessica.saddington/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillInstagram />
                 </a>
               </li>
               <li className="social-icons">
