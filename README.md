@@ -17,7 +17,7 @@ This is my portfolio, made with React.
 
 ## Installation
 
-Click in the [Link](js-quest.io) to navigate to the deployed app
+Click in the [Link](https://www.js-quest.io) to navigate to the deployed app
 
 ## Usage
 
